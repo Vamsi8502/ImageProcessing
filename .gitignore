@@ -1,0 +1,9 @@
+# Secrets
+*.env
+*.key.json
+new_key.json
+
+# Python cache
+__pycache__/
+*.pyc
+new_key.json
